@@ -100,3 +100,4 @@
  ### Theory: The Instagram login page is successfully displayed in the browser using the EC2 public IP address.
 
  ![](./img/page.png)
+ 
